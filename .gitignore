@@ -1,0 +1,16 @@
+# UDISE datasets
+UDISE - MAHARASHTRA-*/
+UDISE - UTTAR PRADESH-*/
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Large/local data files
+*.csv
+*.xlsx
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
